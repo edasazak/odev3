@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Women’s Shop</string>
+    <string name="boyut">BEDEN</string>
+    <string name="urunIsmi">STRADIVARIUS BAĞCIKLI DÜZ BİLEKTE BOT</string>
+    <string name="fiyat">799,95 ₺</string>
+    <string name="aciklama">Tırtıklı tabanlı, farklı renkleri mevcut, düz bot.</string>
+    <string name="buton">SEPETE EKLE</string>
+</resources>

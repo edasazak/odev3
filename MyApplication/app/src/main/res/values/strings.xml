@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Women’s Shop</string>
+    <string name="boyut">SIZE</string>
+    <string name="urunIsmi">STRADIVARIUS FLAT ANKLE BOOTS</string>
+    <string name="fiyat">$48.93</string>
+    <string name="aciklama">Women’s flat ankle boots available in several colours with track soles.</string>
+    <string name="buton">Add To Cart</string>
+</resources>
